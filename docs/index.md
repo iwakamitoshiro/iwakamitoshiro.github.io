@@ -15,6 +15,12 @@
 
 
 
-<span>![akigumi](アキグミ.assets\akigumi.jpg)</span>
+<span>![?](C:\Users\yamac_000\blog_iwakamitoshiro205\docs\index.assets\flower.jpg)</span>
+
+
+
+
+
+<span>![akigumi](index.assets\akigumi.jpg)</span>
 
 アキグミの材は緻密で手触りがよく、道具の柄に使われる。
