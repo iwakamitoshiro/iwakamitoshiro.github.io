@@ -1,7 +1,7 @@
-## 利用法
+# 利用法
 
 
 
-<span>![akigumi](G:\山採りリスト(2022.05.17)\アキグミ.assets\akigumi.jpg)</span>
+<span>![akigumi](アキグミ.assets\akigumi.jpg)</span>
 
-==アキグミの材は緻密で手触りがよく、道具の柄に使われる。==
+アキグミの材は緻密で手触りがよく、道具の柄に使われる。
