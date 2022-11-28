@@ -13,14 +13,4 @@
 
 ## 利用法
 
-
-
-<span>![flower](index.assets/flower.jpg)</span>
-
-
-
-
-
-<span>![akigumi](index.assets/akigumi.jpg)</span>
-
 アキグミの材は緻密で手触りがよく、道具の柄に使われる。
