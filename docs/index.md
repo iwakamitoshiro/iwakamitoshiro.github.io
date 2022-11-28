@@ -15,7 +15,7 @@
 
 
 
-<span>![?](C:\Users\yamac_000\blog_iwakamitoshiro205\docs\index.assets\flower.jpg)</span>
+<span>![flower](index.assets\flower.jpg)</span>
 
 
 
