@@ -1,7 +1,7 @@
 {
   
 "@context" : "http://iiif.io/api/image/2/context.json",
-"@id" : "http://localhost:8887/iiif/Tony",
+"@id" : "https://github.com/iwakamitoshiro/iwakamitoshiro.github.io/docs/iiif/Tony/info.json",
  "width" : 416,
   
   "height" : 240,
